@@ -1,0 +1,35 @@
+==== REPORT 202008232:120236 ====
+Duplicate file: objects.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\objects.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\objects.png
+
+Duplicate file: Inner.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\Inner.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\Inner.png
+
+Duplicate file: cave.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\cave.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\cave.png
+
+Duplicate file: font.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\font.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\font.png
+
+Duplicate file: log.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\log.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\log.png
+
+Duplicate file: NPC_test.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\NPC_test.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\NPC_test.png
+
+Duplicate file: Overworld.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\Overworld.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\Overworld.png
+
+Duplicate file: character.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets\gfx\character.png
+ -> D:\Perso\Image\Unity\ZeldaTileSets - Copy\gfx\character.png
+
+END 202008232:120236
+
